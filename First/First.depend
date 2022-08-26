@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639992557 source:/home/aman/Cpp_Practice/First/main.cpp
+	<iostream>
+
+1639992715 source:/home/aman/Cpp_Practice/First/Name.cpp
+	<iostream>
+

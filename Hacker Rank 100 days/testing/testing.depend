@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642236239 source:/home/aman/Cpp_Practice/Hacker Rank 100 days/testing/main.c
+	<stdio.h>
+	<stdlib.h>
+

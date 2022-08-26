@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640419571 source:/home/aman/Cpp_Practice/Hacker Rank 100 days/Day 2/main.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+
